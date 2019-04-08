@@ -1,0 +1,12 @@
+org/jlab/rec/cnd/banks/HitReader.class
+org/jlab/rec/cnd/hit/CvtGetHTrack.class
+org/jlab/rec/cnd/cluster/CNDClusterFinder.class
+org/jlab/rec/cnd/hit/HalfHit.class
+org/jlab/rec/cnd/constants/CalibrationConstantsLoader.class
+org/jlab/service/cnd/CNDCalibrationEngine.class
+org/jlab/rec/cnd/banks/RecoBankWriter.class
+org/jlab/rec/cnd/hit/CvtGetHTrack$CVTTrack.class
+org/jlab/rec/cnd/hit/CndHitFinder.class
+org/jlab/rec/cnd/cluster/CNDCluster.class
+org/jlab/rec/cnd/hit/CndHit.class
+org/jlab/rec/cnd/constants/Parameters.class

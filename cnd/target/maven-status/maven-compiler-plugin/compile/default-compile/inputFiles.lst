@@ -1,0 +1,11 @@
+/projet/nucleon/pierre/coatjava5b76/clas12-offline-software-5b.7.6/reconstruction/cnd/src/main/java/org/jlab/rec/cnd/banks/RecoBankWriter.java
+/projet/nucleon/pierre/coatjava5b76/clas12-offline-software-5b.7.6/reconstruction/cnd/src/main/java/org/jlab/rec/cnd/cluster/CNDCluster.java
+/projet/nucleon/pierre/coatjava5b76/clas12-offline-software-5b.7.6/reconstruction/cnd/src/main/java/org/jlab/service/cnd/CNDCalibrationEngine.java
+/projet/nucleon/pierre/coatjava5b76/clas12-offline-software-5b.7.6/reconstruction/cnd/src/main/java/org/jlab/rec/cnd/banks/HitReader.java
+/projet/nucleon/pierre/coatjava5b76/clas12-offline-software-5b.7.6/reconstruction/cnd/src/main/java/org/jlab/rec/cnd/constants/Parameters.java
+/projet/nucleon/pierre/coatjava5b76/clas12-offline-software-5b.7.6/reconstruction/cnd/src/main/java/org/jlab/rec/cnd/cluster/CNDClusterFinder.java
+/projet/nucleon/pierre/coatjava5b76/clas12-offline-software-5b.7.6/reconstruction/cnd/src/main/java/org/jlab/rec/cnd/hit/CndHit.java
+/projet/nucleon/pierre/coatjava5b76/clas12-offline-software-5b.7.6/reconstruction/cnd/src/main/java/org/jlab/rec/cnd/hit/HalfHit.java
+/projet/nucleon/pierre/coatjava5b76/clas12-offline-software-5b.7.6/reconstruction/cnd/src/main/java/org/jlab/rec/cnd/hit/CvtGetHTrack.java
+/projet/nucleon/pierre/coatjava5b76/clas12-offline-software-5b.7.6/reconstruction/cnd/src/main/java/org/jlab/rec/cnd/hit/CndHitFinder.java
+/projet/nucleon/pierre/coatjava5b76/clas12-offline-software-5b.7.6/reconstruction/cnd/src/main/java/org/jlab/rec/cnd/constants/CalibrationConstantsLoader.java
